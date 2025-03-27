@@ -6,9 +6,17 @@ STRICT COPYRIGHT NOTICE:
 1. HOSTING & INFRASTRUCTURE
    - This website is hosted on GitHub Pages (nirwata.github.io)
    - GitHub is granted ONLY necessary rights to serve this website
+   - jsDelivr is granted ONLY necessary rights to serve as CDN
    - Repository being public does NOT grant any usage rights
+   - CDN accessibility does NOT grant any usage rights
 
-2. ABSOLUTELY PROHIBITED
+2. PERMITTED SERVICES
+   - GitHub Pages for website hosting
+   - jsDelivr CDN (cdn.jsdelivr.net) for asset delivery
+   Usage pattern: 
+   https://cdn.jsdelivr.net/gh/nirwata/nirwata.github.io@{version}/{file}
+
+3. ABSOLUTELY PROHIBITED
    The following are strictly forbidden without exception:
    - Forking this repository
    - Cloning this repository
@@ -22,21 +30,23 @@ STRICT COPYRIGHT NOTICE:
    - Rehosting on other domains
    - Commercial use of any kind
    - Modification in any form
+   - Using CDN links without permission
+   - Hotlinking to any assets
 
-3. BRANDING PROTECTION
+4. BRANDING PROTECTION
    "Nirwata" name, logo, brand identity, and all associated materials 
    are protected trademarks. Any unauthorized use will be prosecuted.
 
-4. LEGAL ACTION
+5. LEGAL ACTION
    Violations of these terms will result in:
    - DMCA Takedown Notices
    - Copyright Strike Reports
    - Legal Proceedings
    - Criminal Charges where applicable
 
-5. DISCLAIMER
-   Public accessibility does NOT imply any rights to copy, modify,
-   or reuse any part of this website or its contents.
+6. DISCLAIMER
+   Public accessibility and CDN availability do NOT imply any rights 
+   to copy, modify, or reuse any part of this website or its contents.
 
 For permission inquiries (note: most requests will be denied):
 Email: nirwatabot@gmail.com
