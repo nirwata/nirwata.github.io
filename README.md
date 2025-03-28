@@ -1,6 +1,6 @@
 # # ✨ Welcome to @Nirwata Channel 🌟
 
-![Nirwata Banner](static/img/favicon.svg)
+![Nirwata Banner](static/img/web-app-manifest-512x512.png)
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Status: Development](https://img.shields.io/badge/Status-Development-yellow.svg)](https://nirwata.github.io)
